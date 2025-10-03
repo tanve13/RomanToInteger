@@ -27,7 +27,7 @@ class Solution {
         return total;
     }
 }
-public class Main {
+public class RomanToInteger {
     public static void main(String[] args) {
         Solution sol = new Solution();
 
